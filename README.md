@@ -6,8 +6,14 @@ Space Labyrinth 3D is a strategy VR game in zero g-force space, created as a uni
 
 1. Download the directory *src/SpaceLabyrinth3D*.
 2. Open it with Unity 2017.4.0f1 (64-bit) or higher.
-3. Choose *File -> Build & Run*.
-4. Have fun playing!
+3. Choose *File -> Build & Run* from the menu.
+
+or
+
+1. Download zipped build from https://mega.nz/#!xwFW0CBa!oN5zLMNa52KpcLaf8J5DOF0ePy2bKB7qKOSmRXeFq1Y.
+2. Unzip it.
+3. Run *spacelabyrinth3d.exe*.
+
 
 ## Technology used
 
