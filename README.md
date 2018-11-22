@@ -29,7 +29,7 @@ C#, Unity 5.6.1f1 (64-bit) (updated to 2017.4.0f1), Visual Studio 2017, Blender 
 TODO
 
 ## Credits
-**_The music and art belong to their respective creators:_**
+**_The music and art used in this project belong to their respective creators:_**
 
 ###### Menu Graphics
 * Unity Samples: UI by Unity Technologies
