@@ -1,6 +1,6 @@
 # Space Labyrinth 3D
 
-Space Labyrinth 3D is a strategy VR game in zero g-force space, created as a university project.
+Space Labyrinth 3D is a simulation VR game in zero g-force space, created as a university project.
 
 ## Build & Run
 
