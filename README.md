@@ -19,6 +19,8 @@ or
 
 C#, Unity 5.6.1f1 (64-bit) (updated to 2017.4.0f1), Visual Studio 2017, Blender 2.79
 
+Oculus Rift (Consumer Version - CV1)
+
 ## Authors
 
 * Anna Kaliszewicz
