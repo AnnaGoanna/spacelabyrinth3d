@@ -4,9 +4,9 @@ public class SoundtrackManager : MonoBehaviour
 {
     private readonly string[] _songs =
     {
-        "Audio/Absolute Space And Sci-Fi Vol.1 - Sample Pack - Voltz Supreme/Relaxing Planet - 122 bpm/Variations/Relaxing Planet - Pads Only",
-        "Audio/Absolute Space And Sci-Fi Vol.1 - Sample Pack - Voltz Supreme/Stars - 120 bpm/Variations/Stars - Sparse",
-        "Audio/Absolute Space And Sci-Fi Vol.1 - Sample Pack - Voltz Supreme/Space Drift - 80bpm/Variations/Space Drift - Poly Focus Intense"
+        "Audio/Absolute Space And Sci-Fi Vol.1 - Sample Pack - Voltz Supreme/Relaxing Planet - Pads Only",
+        "Audio/Absolute Space And Sci-Fi Vol.1 - Sample Pack - Voltz Supreme/Stars - Sparse",
+        "Audio/Absolute Space And Sci-Fi Vol.1 - Sample Pack - Voltz Supreme/Space Drift - Poly Focus Intense"
     };
 
     private readonly string _defaultSong =
