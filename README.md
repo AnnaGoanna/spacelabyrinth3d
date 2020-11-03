@@ -10,7 +10,7 @@ Space Labyrinth 3D is a simulation VR game in zero g-force space, created as a u
 
 or
 
-1. Download zipped build from https://mega.nz/#!xwFW0CBa!oN5zLMNa52KpcLaf8J5DOF0ePy2bKB7qKOSmRXeFq1Y.
+1. Download zipped build from https://mega.nz/file/4hUHgYJC#oN5zLMNa52KpcLaf8J5DOF0ePy2bKB7qKOSmRXeFq1Y.
 2. Unzip it.
 3. Run *spacelabyrinth3d.exe*.
 
